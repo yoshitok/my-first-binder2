@@ -4,3 +4,4 @@ Get the instruction from https://github.com/choldgraf/uw-reproducibility-2019/bl
 # Adding the badge below!!
 https://mybinder.org/v2/gh/yoshitok/my-first-binder2/master
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yoshitok/my-first-binder2/master)
